@@ -29,3 +29,9 @@ financial institutions identify high-risk loans and monitor repayment performanc
 - Power Query
 - DAX
 - Data Modeling
+
+## 📷 Dashboard Preview
+
+![Dashboard Overview](Screenshots/DashBoard%20Image.png)
+
+![KPI Overview](Screenshots/KPI's%20Image.png)
